@@ -13,7 +13,7 @@
 
 Objects:					Complete
 
-Functions:
+Functions:					Complete
 
 Higher Order Functions:
 
