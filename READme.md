@@ -17,7 +17,7 @@ Functions:				Complete
 
 Higher Order Functions:	Complete
 
-Concepts:
+Concepts:				Complete
  
 
 
